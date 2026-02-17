@@ -32,8 +32,4 @@ I am a **Cloud & Infrastructure Engineer** transitioning from a background in Pr
 | **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ **Active** |
 | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | 🔄 *In Progress* |
 
----
 
-### 📈 GitHub Stats
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-my-tea&show_icons=true&theme=radical)
