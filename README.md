@@ -31,5 +31,6 @@ I am a **Cloud & Infrastructure Engineer** transitioning from a background in Pr
 | :--- | :--- | :--- |
 | **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ **Active** |
 | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | 🔄 *In Progress* |
+| **Google Cloud Computing Foundations** | Google Cloud | 🔄 *In Progress* |
 
 
