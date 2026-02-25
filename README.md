@@ -5,7 +5,7 @@
 I am a **Cloud & Infrastructure Engineer** transitioning from a background in Product Leadership and SAP migrations. I specialize in building **Self-Healing Infrastructure**, **Serverless Automation**, and **Golden Pipelines** for deployment.
 
 - 🔭 I’m currently working on **Advanced Terraform Modules** and **Kubernetes Operators**.
-- 🌱 I’m currently learning **Microsoft Azure AI (AI-900)** and **Generative AI Ops**.
+- 🌱 I’m currently learning **Microsoft Azure AI (AI-900)** and building **LLM-powered automation pipelines**.
 - 💡 Ask me about **AWS Architecture, Python Automation (Boto3), and Docker**.
 - ⚡ Fun fact: I once triggered an AWS Quarantine Policy by accident... ask me how I fixed it!
 
