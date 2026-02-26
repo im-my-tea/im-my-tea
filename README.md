@@ -69,6 +69,6 @@ I am a **Cloud Infrastructure Engineer** bridging the gap between Software Devel
 ### 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=im-my-tea&show_icons=true&theme=radical&hide_border=true" alt="Ayush's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-my-tea&theme=radical&hide_border=true" alt="Ayush's Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=im-my-tea&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-my-tea&theme=radical&hide_border=true" alt="Ayush's Streak" />
 </p>
