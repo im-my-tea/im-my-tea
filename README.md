@@ -1,12 +1,12 @@
 # Hi there, I'm Ayush Maiti! 👋
 
-### ☁️ Cloud Engineer | AWS Certified Solutions Architect | Tech Lead
+### ☁️ Cloud & DevOps Engineer | AWS Certified Solutions Architect | Tech Lead
 
-I am a **Cloud & Infrastructure Engineer** transitioning from a background in Product Leadership and SAP migrations. I specialize in building **Self-Healing Infrastructure**, **Serverless Automation**, and **Golden Pipelines** for deployment.
+I am a **Cloud Infrastructure Engineer** bridging the gap between Software Development, Operations, and AI. With a background in **Product Leadership** and **SAP Migrations**, I now specialize in building **Self-Healing Infrastructure**, **Serverless Automation**, and **MLOps Pipelines**.
 
-- 🔭 I’m currently working on **Advanced Terraform Modules** and **Kubernetes Operators**.
-- 🌱 I’m currently learning **Microsoft Azure AI (AI-900)** and building **LLM-powered automation pipelines**.
-- 💡 Ask me about **AWS Architecture, Python Automation (Boto3), and Docker**.
+- 🔭 I’m currently building **Scalable AI Inference APIs** on Azure using Docker & FastAPI.
+- 🌱 I’m preparing for **Microsoft Azure AI Fundamentals (AI-900)** to expand into Multi-Cloud AI Architecture.
+- 💡 Ask me about **AWS Architecture, Python Automation (Boto3), and Infrastructure as Code**.
 - ⚡ Fun fact: I once triggered an AWS Quarantine Policy by accident... ask me how I fixed it!
 
 ---
@@ -19,8 +19,8 @@ I am a **Cloud & Infrastructure Engineer** transitioning from a background in Pr
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
@@ -32,9 +32,6 @@ I am a **Cloud & Infrastructure Engineer** transitioning from a background in Pr
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
@@ -53,7 +50,6 @@ I am a **Cloud & Infrastructure Engineer** transitioning from a background in Pr
 **AI / Machine Learning & Intelligent Systems**
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure_AI_Services-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=for-the-badge" />
@@ -67,5 +63,13 @@ I am a **Cloud & Infrastructure Engineer** transitioning from a background in Pr
 | :--- | :--- | :--- |
 | **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ **Active** |
 | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | 🔄 *In Progress* |
+| **Google Cloud Computing Foundations** | Google Cloud | 🔄 *In Progress* |
 
+---
 
+### 📈 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=im-my-tea&show_icons=true&theme=radical&hide_border=true" alt="Ayush's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=im-my-tea&theme=radical&hide_border=true" alt="Ayush's Streak" />
+</p>
