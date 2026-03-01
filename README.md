@@ -62,7 +62,7 @@ I am a **Cloud Infrastructure Engineer** bridging the gap between Software Devel
 | Certification | Issuer | Status |
 | :--- | :--- | :--- |
 | **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ **Active** |
-| **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | 🔄 *In Progress* |
+| **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | ✅ **Active** |
 
 ---
 
