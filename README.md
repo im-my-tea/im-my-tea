@@ -5,7 +5,6 @@
 I am a **Cloud Infrastructure Engineer** bridging the gap between Software Development, Operations, and AI. With a background in **Product Leadership** and **SAP Migrations**, I now specialize in building **Self-Healing Infrastructure**, **Serverless Automation**, and **MLOps Pipelines**.
 
 - 🔭 I’m currently building **Scalable AI Inference APIs** on Azure using Docker & FastAPI.
-- 🌱 I’m preparing for **Microsoft Azure AI Fundamentals (AI-900)** to expand into Multi-Cloud AI Architecture.
 - 💡 Ask me about **AWS Architecture, Python Automation (Boto3), and Infrastructure as Code**.
 - ⚡ Fun fact: I once triggered an AWS Quarantine Policy by accident... ask me how I fixed it!
 
