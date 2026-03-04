@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Maiti! 👋
+# Hi there ! I'm Ayush Maiti 👋
 
 ### ☁️ Cloud & DevOps Engineer | AWS Certified Solutions Architect | Tech Lead
 
