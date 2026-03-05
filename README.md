@@ -1,6 +1,6 @@
-# Hi there, I'm Ayush Maiti! 👋
+# Hi there, I'm Ayush Maiti ! 👋
 
-### ☁️ Cloud & DevOps Engineer | AWS Certified Solutions Architect | Tech Lead
+### ☁️ Cloud & DevOps Engineer | AWS Certified Solutions Architect | Azure Certified
 
 I am a **Cloud Infrastructure Engineer** bridging the gap between Software Development, Operations, and AI. With a background in **Product Leadership** and **SAP Migrations**, I now specialize in building **Self-Healing Infrastructure**, **Serverless Automation**, and **MLOps Pipelines**.
 
