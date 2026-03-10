@@ -2,7 +2,7 @@
 
 ### ☁️ Cloud & DevOps Engineer | AWS Certified Solutions Architect | Azure Certified
 
-I am a **Cloud Infrastructure Engineer** bridging the gap between Software Development, Operations, and AI. With a background in **Product Leadership** and **SAP Migrations**, I now specialize in building **Self-Healing Infrastructure**, **Serverless Automation**, and **MLOps Pipelines**.
+I am a **Cloud Infrastructure Engineer** bridging the gap between Software Development, Operations and AI. With a background in **Product Leadership** and **SAP Migrations**, I now specialize in building **Self-Healing Infrastructure**, **Serverless Automation**, and **MLOps Pipelines**.
 
 - 🔭 I’m currently building **Scalable AI Inference APIs** on Azure using Docker & FastAPI.
 - 🌱 I’m **Microsoft Certified (AI-900)** and expanding into Multi-Cloud AI Architecture.
