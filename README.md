@@ -7,8 +7,8 @@ now specialising in cloud-native infrastructure, CI/CD automation, and MLOps.
 I build across AWS, GCP, and Azure — and I care about understanding every line, 
 not just making it work.
 
-- 🔭 Currently: deployed a breast cancer detection API on **GCP Cloud Run** (serverless), 
-  provisioned **VPC + GKE clusters with Terraform**, built multi-stage **CI/CD pipelines** on AWS
+- 🔭 Currently: deployed two production apps on GCP Cloud Run — an MLOps inference 
+API and an AI-powered job application CRM with Cloud SQL + GCS
 - 🌱 Multi-cloud: hands-on AWS (SAA-C03 certified), GCP (Cloud Run, GKE, Artifact Registry), 
   Azure (App Service, ACR — migrated to GCP)
 - 💡 Ask me about **Terraform state management, serverless containers, or CI/CD pipeline design**
@@ -68,6 +68,7 @@ not just making it work.
 | [aws-infrastructure-provisioner](https://github.com/im-my-tea/aws-infrastructure-provisioner) | Terraform · AWS EKS · VPC · GCP GKE | IaC for Kubernetes clusters — applied on real GCP infra |
 | [microservice-delivery-pipeline](https://github.com/im-my-tea/microservice-delivery-pipeline) | GitHub Actions · Docker · AWS ECR · Pytest | CI/CD — tests on all branches, ECR push on main only |
 | [serverless-cost-sentinel](https://github.com/im-my-tea/serverless-cost-sentinel) | Lambda · EventBridge · Boto3 · Terraform | Stops idle EC2s daily across 15+ regions concurrently |
+| [resume-ai-crm](https://github.com/im-my-tea/resume-ai-crm) | FastAPI · Cloud SQL · GCS · GCP Cloud Run | AI-powered job application CRM — stateful Cloud Run deployment |
 
 ---
 
