@@ -1,14 +1,14 @@
 # Hi there, I'm Ayush Maiti! 👋
 
-### ☁️ Cloud & DevOps Engineer | AWS Certified Solutions Architect | Azure AI Certified
+### ☁️ Cloud & DevOps Engineer | AWS SAA-C03 | Terraform Associate (in progress) | Azure Certified | Anthropic Certified
 
 I'm a Cloud & DevOps Engineer with a background in product delivery and data systems, 
 now specialising in cloud-native infrastructure, CI/CD automation, and MLOps. 
 I build across AWS, GCP, and Azure — and I care about understanding every line, 
 not just making it work.
 
-- 🔭 Currently: deployed two production apps on GCP Cloud Run — an MLOps inference 
-API and an AI-powered job application CRM with Cloud SQL + GCS
+- 🔭 Currently: deployed two production apps on GCP Cloud Run, studying Terraform 
+Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubuntu)
 - 🌱 Multi-cloud: hands-on AWS (SAA-C03 certified), GCP (Cloud Run, GKE, Artifact Registry), 
   Azure (App Service, ACR — migrated to GCP)
 - 💡 Ask me about **Terraform state management, serverless containers, or CI/CD pipeline design**
