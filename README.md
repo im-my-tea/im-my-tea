@@ -11,7 +11,7 @@ not just making it work.
 Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubuntu)
 - 🌱 Multi-cloud: hands-on AWS (SAA-C03 certified), GCP (Cloud Run, GKE, Artifact Registry), 
   Azure (App Service, ACR — migrated to GCP)
-- 💡 Ask me about **Terraform state management, serverless containers, or CI/CD pipeline design**
+- 💡 Ask me about **Terraform state management, MCP protocol, serverless containers, or CI/CD pipeline design**
 - ⚡ Fun fact: I once triggered an AWS Quarantine Policy by accident... ask me how I fixed it!
 
 ---
@@ -57,6 +57,8 @@ Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubu
 | :--- | :--- | :--- |
 | **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Active |
 | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | ✅ Active |
+| **Anthropic: Claude with Amazon Bedrock** | Anthropic | ✅ Active |
+| **Anthropic: Claude with Google Cloud's Vertex AI** | Anthropic | ✅ Active |
 
 ---
 
