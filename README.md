@@ -57,6 +57,7 @@ Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubu
 | :--- | :--- | :--- |
 | **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Active |
 | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | ✅ Active |
+| **HashiCorp Certified: Terraform Associate (004)** | HashiCorp | ⏳ Expected April 2026 |
 | **Anthropic: Claude with Amazon Bedrock** | Anthropic | ✅ Active |
 | **Anthropic: Claude with Google Cloud's Vertex AI** | Anthropic | ✅ Active |
 
@@ -66,11 +67,11 @@ Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubu
 
 | Project | Stack | What it does |
 |---|---|---|
-| [gcp-mlops-capstone](https://github.com/im-my-tea/gcp-mlops-capstone) | FastAPI · Docker · GCP Cloud Run · sklearn | Breast cancer detection API — migrated Azure → GCP serverless |
-| [aws-infrastructure-provisioner](https://github.com/im-my-tea/aws-infrastructure-provisioner) | Terraform · AWS EKS · VPC · GCP GKE | IaC for Kubernetes clusters — applied on real GCP infra |
-| [microservice-delivery-pipeline](https://github.com/im-my-tea/microservice-delivery-pipeline) | GitHub Actions · Docker · AWS ECR · Pytest | CI/CD — tests on all branches, ECR push on main only |
-| [serverless-cost-sentinel](https://github.com/im-my-tea/serverless-cost-sentinel) | Lambda · EventBridge · Boto3 · Terraform | Stops idle EC2s daily across 15+ regions concurrently |
 | [resume-ai-crm](https://github.com/im-my-tea/resume-ai-crm) | FastAPI · Cloud SQL · GCS · GCP Cloud Run | AI-powered job application CRM — stateful Cloud Run deployment |
+| [aws-infrastructure-provisioner](https://github.com/im-my-tea/aws-infrastructure-provisioner) | Terraform · AWS EKS · VPC · GCP GKE | IaC for Kubernetes clusters — applied on real GCP infra |
+| [serverless-cost-sentinel](https://github.com/im-my-tea/serverless-cost-sentinel) | Lambda · EventBridge · Boto3 · Terraform | Stops idle EC2s daily across 15+ regions concurrently |
+| [microservice-delivery-pipeline](https://github.com/im-my-tea/microservice-delivery-pipeline) | GitHub Actions · Docker · AWS ECR · Pytest | CI/CD — tests on all branches, ECR push on main only |
+| [gcp-mlops-capstone](https://github.com/im-my-tea/gcp-mlops-capstone) | FastAPI · Docker · GCP Cloud Run · sklearn | Breast cancer detection API — migrated Azure → GCP serverless |
 
 ---
 
