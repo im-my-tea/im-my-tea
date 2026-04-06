@@ -1,9 +1,9 @@
 # Hi there, I'm Ayush Maiti! 👋
 
-### ☁️ Cloud & DevOps Engineer | AWS SAA-C03 | Terraform Associate (in progress) | Azure Certified | Anthropic Certified
+### ☁️ Cloud & Platform Engineer | AWS SAA-C03 | Terraform Associate (in progress) | Azure Certified | Anthropic Certified
 
-I'm a Cloud & DevOps Engineer with a background in product delivery and data systems, 
-now specialising in cloud-native infrastructure, CI/CD automation, and MLOps. 
+I'm a Cloud & Platform Engineer with a background in product delivery and data systems, 
+now specialising in cloud-native infrastructure, IaC, Python automation, and reliable system design. 
 I build across AWS, GCP, and Azure — and I care about understanding every line, 
 not just making it work.
 
@@ -11,7 +11,7 @@ not just making it work.
 Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubuntu)
 - 🌱 Multi-cloud: hands-on AWS (SAA-C03 certified), GCP (Cloud Run, GKE, Artifact Registry), 
   Azure (App Service, ACR — migrated to GCP)
-- 💡 Ask me about **Terraform state management, MCP protocol, serverless containers, or CI/CD pipeline design**
+- 💡 Ask me about **Terraform state management, serverless containers, CI/CD pipeline design, or infrastructure automation with Python**
 - ⚡ Fun fact: I once triggered an AWS Quarantine Policy by accident... ask me how I fixed it!
 
 ---
