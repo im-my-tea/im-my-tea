@@ -58,7 +58,7 @@ Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubu
 | :--- | :--- | :--- |
 | **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Active |
 | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | ✅ Active |
-| **HashiCorp Certified: Terraform Associate (004)** | HashiCorp | ⏳ Expected April 2026 |
+| **HashiCorp Certified: Terraform Associate (004)** | HashiCorp | ⏳ Expected May 2026 |
 | **Anthropic: Claude with Amazon Bedrock** | Anthropic | ✅ Active |
 | **Anthropic: Claude with Google Cloud's Vertex AI** | Anthropic | ✅ Active |
 
