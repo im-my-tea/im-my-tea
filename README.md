@@ -60,7 +60,6 @@ Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubu
 | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | ✅ Active |
 | **HashiCorp Certified: Terraform Associate (004)** | HashiCorp | ⏳ Expected May 2026 |
 | **Anthropic: Claude with Amazon Bedrock** | Anthropic | ✅ Active |
-| **Anthropic: Claude with Google Cloud's Vertex AI** | Anthropic | ✅ Active |
 
 ---
 
