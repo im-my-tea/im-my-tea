@@ -1,14 +1,13 @@
 # Hi there, I'm Ayush Maiti! 👋
 
-### ☁️ Cloud & Platform Engineer | AWS SAA-C03 | Terraform Associate (in progress) | Azure Certified | Anthropic Certified
+### ☁️ Cloud & Platform Engineer | AWS SAA-C03 | Terraform Associate | Azure Certified 
 
 I'm a Cloud & Platform Engineer with a background in product delivery and data systems, 
 now specialising in cloud-native infrastructure, IaC, Python automation, and reliable system design. 
 I build across AWS, GCP, and Azure — and I care about understanding every line, 
 not just making it work.
 
-- 🔭 Currently: deployed two production apps on GCP Cloud Run, studying Terraform 
-Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubuntu)
+- 🔭 Currently: deploying production apps on GCP Cloud Run, mastering IaC , and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubuntu)
 - 🌱 Multi-cloud: hands-on AWS (SAA-C03 certified), GCP (Cloud Run, GKE, Artifact Registry), 
   Azure (App Service, ACR — migrated to GCP)
 - 💡 Ask me about **Terraform state management, serverless containers, CI/CD pipeline design, or infrastructure automation with Python**
@@ -59,7 +58,6 @@ Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubu
 | **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Active |
 | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft | ✅ Active |
 | **HashiCorp Certified: Terraform Associate (004)** | HashiCorp | ✅ Active |
-| **Anthropic: Claude with Amazon Bedrock** | Anthropic | ✅ Active |
 
 ---
 
@@ -68,7 +66,7 @@ Associate 004, and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubu
 | Project | Stack | What it does |
 |---|---|---|
 | [resume-ai-crm](https://github.com/im-my-tea/resume-ai-crm) | FastAPI · Cloud SQL · GCS · GCP Cloud Run | AI-powered job application CRM — stateful Cloud Run deployment |
-| [aws-infrastructure-provisioner](https://github.com/im-my-tea/aws-infrastructure-provisioner) | Terraform · AWS EKS · VPC · GCP GKE | IaC for Kubernetes clusters — applied on real GCP infra |
+| [aws-infrastructure-provisioner](https://github.com/im-my-tea/aws-infrastructure-provisioner) | Terraform · AWS EKS · VPC · GCP GKE | Terraform modules for AWS VPC/EKS with OIDC/IRSA |
 | [serverless-cost-sentinel](https://github.com/im-my-tea/serverless-cost-sentinel) | Lambda · EventBridge · Boto3 · Terraform | Stops idle EC2s daily across 15+ regions concurrently |
 | [microservice-delivery-pipeline](https://github.com/im-my-tea/microservice-delivery-pipeline) | GitHub Actions · Docker · AWS ECR · Pytest | CI/CD — tests on all branches, ECR push on main only |
 | [gcp-mlops-capstone](https://github.com/im-my-tea/gcp-mlops-capstone) | FastAPI · Docker · GCP Cloud Run · sklearn | Breast cancer detection API — migrated Azure → GCP serverless |
