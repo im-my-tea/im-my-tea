@@ -66,7 +66,7 @@ not just making it work.
 | Project | Stack | What it does |
 |---|---|---|
 | [resume-ai-crm](https://github.com/im-my-tea/resume-ai-crm) | FastAPI · Cloud SQL · GCS · GCP Cloud Run | AI-powered job application CRM — stateful Cloud Run deployment |
-| [aws-infrastructure-provisioner](https://github.com/im-my-tea/aws-infrastructure-provisioner) | Terraform · AWS EKS · VPC · GCP GKE | Terraform modules for AWS VPC/EKS with OIDC/IRSA |
+| [terraform-infrastructure-provisioner](https://github.com/im-my-tea/terraform-infrastructure-provisioner) | Terraform · AWS EKS · VPC · GCP GKE | Terraform modules for AWS VPC/EKS with OIDC/IRSA |
 | [serverless-cost-sentinel](https://github.com/im-my-tea/serverless-cost-sentinel) | Lambda · EventBridge · Boto3 · Terraform | Stops idle EC2s daily across 15+ regions concurrently |
 | [microservice-delivery-pipeline](https://github.com/im-my-tea/microservice-delivery-pipeline) | GitHub Actions · Docker · AWS ECR · Pytest | CI/CD — tests on all branches, ECR push on main only |
 | [gcp-mlops-capstone](https://github.com/im-my-tea/gcp-mlops-capstone) | FastAPI · Docker · GCP Cloud Run · sklearn | Breast cancer detection API — migrated Azure → GCP serverless |
