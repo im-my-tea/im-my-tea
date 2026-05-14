@@ -7,7 +7,7 @@ now specialising in cloud-native infrastructure, IaC, Python automation, and rel
 I build across AWS, GCP, and Azure — and I care about understanding every line, 
 not just making it work.
 
-- 🔭 Currently: deploying production apps on GCP Cloud Run, mastering IaC , and experimenting with local AI agents (OpenClaw + Gemma 4 on Ubuntu)
+- 🔭 Currently:  deployed two production apps on GCP Cloud Run, hardening backends with structured logging + circuit breakers + uptime monitoring, and going deeper on SRE/Platform concepts
 - 🌱 Multi-cloud: hands-on AWS (SAA-C03 certified), GCP (Cloud Run, GKE, Artifact Registry), 
   Azure (App Service, ACR — migrated to GCP)
 - 💡 Ask me about **Terraform state management, serverless containers, CI/CD pipeline design, or infrastructure automation with Python**
@@ -65,11 +65,11 @@ not just making it work.
 
 | Project | Stack | What it does |
 |---|---|---|
-| [resume-ai-crm](https://github.com/im-my-tea/resume-ai-crm) | FastAPI · Cloud SQL · GCS · GCP Cloud Run | AI-powered job application CRM — stateful Cloud Run deployment |
-| [terraform-infrastructure-provisioner](https://github.com/im-my-tea/terraform-infrastructure-provisioner) | Terraform · AWS EKS · VPC · GCP GKE | Terraform modules for AWS VPC/EKS with OIDC/IRSA |
-| [serverless-cost-sentinel](https://github.com/im-my-tea/serverless-cost-sentinel) | Lambda · EventBridge · Boto3 · Terraform | Stops idle EC2s daily across 15+ regions concurrently |
-| [microservice-delivery-pipeline](https://github.com/im-my-tea/microservice-delivery-pipeline) | GitHub Actions · Docker · AWS ECR · Pytest | CI/CD — tests on all branches, ECR push on main only |
-| [gcp-mlops-capstone](https://github.com/im-my-tea/gcp-mlops-capstone) | FastAPI · Docker · GCP Cloud Run · sklearn | Breast cancer detection API — migrated Azure → GCP serverless |
+| [resume-ai-crm](https://github.com/im-my-tea/resume-ai-crm) | FastAPI · Cloud SQL · GCS · GCP Cloud Run · pytest | Production-grade FastAPI backend — circuit breaker, structured logging, health checks, uptime monitoring, pytest in CI |
+| [terraform-infrastructure-provisioner](https://github.com/im-my-tea/terraform-infrastructure-provisioner) | Terraform · AWS EKS · VPC · GCP GKE · Cloud Run · Cloud SQL | IaC for K8s clusters + full app-stack provisioning (IAM + DB + storage + compute as separate modules) |
+| [serverless-cost-sentinel](https://github.com/im-my-tea/serverless-cost-sentinel) | Lambda · EventBridge · Boto3 · SNS · S3 · Terraform | Stops idle EC2s across 15+ regions concurrently; SNS notifications + S3 JSON reports |
+| [microservice-delivery-pipeline](https://github.com/im-my-tea/microservice-delivery-pipeline) | GitHub Actions · Docker · AWS ECR · App Runner · Pytest | Full promotion pipeline: tests → staging → smoke tests → manual approval → production |
+| [gcp-mlops-capstone](https://github.com/im-my-tea/gcp-mlops-capstone) | FastAPI · Docker · GCP Cloud Run · sklearn | Multi-cloud serverless deployment — containerized inference API migrated Azure → GCP |
 
 ---
 
